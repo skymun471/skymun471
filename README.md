@@ -3,6 +3,7 @@
 ### About Me 😉
 Hello! My name is `Ha Neul, Moon` <br/>
 I'm highly interested in lidar odometry and mapping system <br>
+I'm currently preparing for an autonomous driving contest using the erp42 car platform.
 <!-- I've recently created my tech blog [HERE](https://bigbigpark.github.io)  -->
   
 <br/>
